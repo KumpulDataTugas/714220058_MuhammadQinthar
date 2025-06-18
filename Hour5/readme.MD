@@ -1,0 +1,2 @@
+Struct adalah tipe data yang ditentukan pengguna yang didefinisikan dengan menggunakan kata kunci struct.
+Anggota struct berisi nama dan tipe anggota yang diapit oleh kurung kurawal. Anggota struct disebut field.

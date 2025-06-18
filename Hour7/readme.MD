@@ -1,0 +1,1 @@
+Vektor sebenarnya adalah array yang dinamis atau dapat berubah. Ini adalah struktur data tunggal yang dapat menyimpan beberapa nilai dalam memori.

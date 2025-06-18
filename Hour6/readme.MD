@@ -1,0 +1,1 @@
+Modul adalah namespace yang berisi fungsi, struktur, sifat, dan proyek implementasi. Secara default, pengubah modul bersifat privat, tetapi atribut publik dapat diatur menggunakan kata kunci “pub”.
